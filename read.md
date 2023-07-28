@@ -10,4 +10,4 @@ terminal에서 github.io 폴더로 진입 후 html 파일을 하나 생성해둔
 add commit push를 해준다.
 >> git add *
 >> git commit -m "Fuck you"
->> git push -u orign main
+>> git push -u origin main
